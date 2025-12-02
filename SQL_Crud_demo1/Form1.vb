@@ -1,5 +1,4 @@
-﻿Imports System.Data.SqlClient
-Imports MySql.Data.MySqlClient
+﻿Imports MySql.Data.MySqlClient
 Public Class Form1
     Dim conn As MySqlConnection
     Dim COMMAND As MySqlCommand
